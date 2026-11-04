@@ -8,3 +8,5 @@ What question will our team investigate?
 - Student name: data documentation
 ## Research question
 What factors influence health outcomes?
+## Methods 
+How we will try and prove the hypothesis 
